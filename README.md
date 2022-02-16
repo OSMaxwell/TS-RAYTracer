@@ -3,6 +3,8 @@
 A Typescript Ray-tracer built for university upon THREEJS API and WebGL. If you plan to use it for the same module, please copy carefuly...
 
 
+![screenshot](https://github.com/OSMaxwell/TS-RAYTracer/blob/main/img/Screenshot.png?raw=true)
+
 ## Features 
 
 - Correct sphere intersections. 
